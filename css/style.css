@@ -44,6 +44,7 @@
     color: #fda224;
     font-size: 12pt;
     font-family: arial;
+    transition:1s;
 }
 .menubar ul li a:hover{
     color: #6a6a6a;
